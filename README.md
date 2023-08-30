@@ -2,12 +2,15 @@
 
 Welcome to the captivating world of Simon Memory Game! This project introduces an engaging game designed to enhance short-term memory skills while providing an enjoyable experience. Simon Memory Game challenges players to recall and reproduce a sequence of colors, progressively increasing in complexity. The goal is to provide both entertainment and cognitive exercise.
 
+Ready to play? [Click here to Launch the Simon Memory Game](https://mevinmoncy.github.io/Simon-Game/)
+
 ## Table of Contents 📋
 
 - [Why This Project?](#why-this-project-)
 - [Lessons Learned](#lessons-learned-)
 - [Features](#features-)
 - [How to Play](#how-to-play-)
+- [Play the Game](https://mevinmoncy.github.io/Simon-Game/)
 - [Technologies Used](#technologies-used-)
 
 ## Why This Project? 🤔
@@ -42,17 +45,21 @@ In the process of building Simon Memory Game, I gained valuable insights:
 
 ## How to Play 🎮
 
-1. **Initiate the Challenge:** Begin the game by pressing the "A" key. Observe as the game initiates, displaying the initial level and an enchanting sequence of colors.
+Playing the Simon Memory Game is simple and engaging:
 
-2. **Focus on Memorization:** Immerse yourself in the array of colors and commit the pattern to memory. Concentrate diligently, as each hue is essential.
+1. **Starting the Game**: Press the "A" key to initiate the game. Upon starting, you'll be presented with the initial level and a captivating sequence of colors.
 
-3. **Reproduce the Sequence:** Once the vibrant display concludes, it's your turn to shine. Replicate the pattern by clicking the buttons in the exact order you just witnessed. Maintain the rhythm and accuracy!
+2. **Remember the Colors**: Carefully observe the color sequence displayed by the game. Focus on memorizing the order in which the colors appear – concentration is key.
 
-4. **Progression to Higher Levels:** Successfully replicate the pattern? Well done! Ascend to the next level, where the colors collaborate to challenge your memory capabilities even further.
+3. **Repeat the Sequence**: After the color display ends, it's your turn to replicate the sequence. Click the color buttons in the exact same order as you saw them. Stay attentive and maintain the rhythm!
 
-5. **Correcting Mistakes:** If a misstep occurs, don't fret. Even experts encounter setbacks. The game discreetly notifies you with a "Game Over," but the journey doesn't conclude there. Merely press any key to recommence the symphony.
+4. **Advancing to Higher Levels**: Successfully reproduce the sequence? Congratulations! You'll progress to the next level, where the challenges become more intricate.
 
-Master the sequences, enhance your memory prowess, and enjoy the challenge of Simon Memory Game!
+5. **Making Mistakes**: Made an error? No worries – even the best encounter setbacks. If you miss a step, the game will indicate "Game Over." But don't let that discourage you; press any key to restart the symphony.
+
+Experience the thrill of enhancing your memory while enjoying the Simon Memory Game. Develop your recall skills, challenge yourself, and have fun mastering the colorful patterns!
+
+Ready to play? [Launch the Simon Memory Game](https://mevinmoncy.github.io/Simon-Game/) and embark on your memory-enhancing adventure!
 
 ## Technologies Used 💻
 
